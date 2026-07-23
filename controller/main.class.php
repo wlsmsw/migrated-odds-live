@@ -5,6 +5,7 @@ Author: MSW WebDev
 Version: 1.0
 */
 
+#[\AllowDynamicProperties]
 class Site extends Config
 {
 

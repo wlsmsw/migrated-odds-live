@@ -54,6 +54,7 @@ require('inc/liveapi.class.php');
 require('controller/main.class.php');
 
 
+#[\AllowDynamicProperties]
 class Config
 {
 
